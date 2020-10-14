@@ -1,0 +1,11 @@
+/admin
+/BotManager
+/temp
+/store/Outreach/*.list
+/store/Outreach/*.log
+/store/Outreach-Services/*.task
+/store/Outreach-Services/*.rslt
+EntityManager.as
+Teleport.as
+Vox.as
+Yell.as
