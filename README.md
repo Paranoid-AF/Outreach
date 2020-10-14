@@ -1,5 +1,5 @@
 # Outreach
-This piece of experimental bloatware is an event-driven utility that allows you to make **your** magic happen asynchronously, and communicate across plugins or even external programs. But it's based on file I/O so it's meant to be unstable.
+This piece of experimental bloatware is an event-driven utility that allows you to make **your** magic happen asynchronously, and communicate across plugins or even [external programs](https://github.com/Paranoid-AF/Outreach#Expansions). But it's based on file I/O so it's meant to be unstable.
 
 In general, it sucks.
 ## Configuration
